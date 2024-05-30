@@ -1,12 +1,5 @@
 # Task 1. Develop a function to determine the score in a game 
 
-# Objective 
-# In the code example below, a list of game score states throughout a match is generated.
-# Develop the function get_score(game_stamps, offset), which will return the score at the moment of offset in the list of game_stamps.
-# It is necessary to understand the essence of the written code, notice the nuances, develop a function that fits in style with the existing code, 
-# preferably with adequate algorithmic complexity.
-
-
 from pprint import pprint
 import random
 import math
